@@ -1,2 +1,2 @@
 # VoronMods
-Repo for Voron Mods or csutom parts
+Repo for Voron Mods or custom parts
